@@ -1,0 +1,135 @@
+ul > li {
+  background: green;
+}
+ol > li {
+  font-size: 20px;
+  color: indigo;
+}
+
+.hik{
+  display: flex;
+}
+.hj{
+  width: 400px;
+  height: 400px;
+}
+
+.ol{
+  width: 400px;
+  height: 400px;
+  background: lime;
+  display: block;
+
+  box-sizing: border-box;
+  padding:10px;
+  margin: 10px;
+}
+.box{
+  background: rebeccapurple;
+  display: flex;
+  justify-content: flex-start;
+
+  height: 700px;
+}
+.asd{
+  background: darkcyan;
+}
+
+.er{
+  background: coral;
+  width: 200px;
+}
+
+.gh{
+  display: flex;
+}
+
+.fg{
+  width: 200px;
+  height: 200px;
+  margin: 3px;
+  background: cornflowerblue;
+}
+
+
+.fg:nth-child(3n+2){
+  background: coral;
+}
+
+.io:nth-child(even)>li:nth-child(even){
+  background: rebeccapurple;
+}
+.io:hover{
+  background: darkgreen;
+}
+
+.w200{
+  width: 200px;
+}
+.w250{
+  width: 250px;
+}
+.w350{
+  width: 350px;
+}
+.h200{
+  height: 200px;
+}
+.h250{
+  height: 250px;
+}
+.bgBase{
+  background: crimson;
+}
+.brds{
+  border-radius: 5px;
+}
+.raunds{
+  border-radius: 50%;
+}
+.body{
+  margin: 0;
+}
+.ikii{
+  display: flex;
+
+  background: rebeccapurple;
+  margin: 0;
+  position: fixed;
+}
+
+.ikii > li{
+  margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
